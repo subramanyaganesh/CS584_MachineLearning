@@ -1,6 +1,5 @@
 # CS584_MachineLearning
-# Group33
-#Personalized Placement Predictor for Job Aspirants
+# Group33: Personalized Placement Predictor for Job Aspirants
 
 This repository contains the project of Group 33 having the project title as Personalized Placement Predictor for Job Aspirants.
 
