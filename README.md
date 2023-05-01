@@ -14,6 +14,9 @@ This paper explores the development of machine learning algorithms for accurate 
 
 
 Data set:- Job_Placement_Data.csv
+
 project code:- CS584 Machine Learning Project - Group 33.ipynb
+
 group report:- ML_Project_Report.pdf
+
 inference run file:- inference.ipynb
